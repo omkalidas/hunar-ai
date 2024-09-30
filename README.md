@@ -1,2 +1,0 @@
-# hunar-ai
-Hunar AI 
