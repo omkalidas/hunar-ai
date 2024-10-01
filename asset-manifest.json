@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/hunar-ai/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/hunar-ai/static/js/main.14293aad.chunk.js",
-    "main.js.map": "/hunar-ai/static/js/main.14293aad.chunk.js.map",
-    "runtime~main.js": "/hunar-ai/static/js/runtime~main.89870434.js",
-    "runtime~main.js.map": "/hunar-ai/static/js/runtime~main.89870434.js.map",
-    "static/js/2.8a41a75e.chunk.js": "/hunar-ai/static/js/2.8a41a75e.chunk.js",
-    "static/js/2.8a41a75e.chunk.js.map": "/hunar-ai/static/js/2.8a41a75e.chunk.js.map",
-    "static/js/3.177faaa1.chunk.js": "/hunar-ai/static/js/3.177faaa1.chunk.js",
-    "static/js/3.177faaa1.chunk.js.map": "/hunar-ai/static/js/3.177faaa1.chunk.js.map",
+    "main.js": "/hunar-ai/static/js/main.8cb584eb.chunk.js",
+    "main.js.map": "/hunar-ai/static/js/main.8cb584eb.chunk.js.map",
+    "runtime~main.js": "/hunar-ai/static/js/runtime~main.f5a4169a.js",
+    "runtime~main.js.map": "/hunar-ai/static/js/runtime~main.f5a4169a.js.map",
+    "static/css/2.dd67f187.chunk.css": "/hunar-ai/static/css/2.dd67f187.chunk.css",
+    "static/js/2.6ba1db54.chunk.js": "/hunar-ai/static/js/2.6ba1db54.chunk.js",
+    "static/js/2.6ba1db54.chunk.js.map": "/hunar-ai/static/js/2.6ba1db54.chunk.js.map",
+    "static/js/3.69ba5426.chunk.js": "/hunar-ai/static/js/3.69ba5426.chunk.js",
+    "static/js/3.69ba5426.chunk.js.map": "/hunar-ai/static/js/3.69ba5426.chunk.js.map",
     "index.html": "/hunar-ai/index.html",
-    "precache-manifest.2f253e188373aa8cda85b69fa3293aaf.js": "/hunar-ai/precache-manifest.2f253e188373aa8cda85b69fa3293aaf.js",
+    "precache-manifest.74d3101737d1dbe4940fcfaf39d476a9.js": "/hunar-ai/precache-manifest.74d3101737d1dbe4940fcfaf39d476a9.js",
     "service-worker.js": "/hunar-ai/service-worker.js",
+    "static/css/2.dd67f187.chunk.css.map": "/hunar-ai/static/css/2.dd67f187.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/hunar-ai/static/css/main.5ecd60fb.chunk.css.map"
   }
 }

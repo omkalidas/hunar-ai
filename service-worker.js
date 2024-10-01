@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hunar-ai/precache-manifest.2f253e188373aa8cda85b69fa3293aaf.js"
+  "/hunar-ai/precache-manifest.74d3101737d1dbe4940fcfaf39d476a9.js"
 );
 
 self.addEventListener('message', (event) => {
